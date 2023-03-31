@@ -1,2 +1,3 @@
 # Arduino_Line_Tracking_Robot 
- A robot using Arduino Uno and C++ to control the motors and sensors for detecting the tracks and moving along with them 
+* A robot using Arduino Uno and C++ to control the motors and sensors for detecting the tracks and moving along with them 
+* The kit using in this project is from Elegoo 
